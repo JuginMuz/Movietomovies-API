@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Movietomovies-API/static/css/main.404e885e.css",
+    "main.js": "/Movietomovies-API/static/js/main.934d5deb.js",
+    "index.html": "/Movietomovies-API/index.html",
+    "static/media/search.svg": "/Movietomovies-API/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.404e885e.css.map": "/Movietomovies-API/static/css/main.404e885e.css.map",
+    "main.934d5deb.js.map": "/Movietomovies-API/static/js/main.934d5deb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.404e885e.css",
+    "static/js/main.934d5deb.js"
+  ]
+}
